@@ -2,3 +2,6 @@ venv
 __pycache__
 .idea
 test.py
+build
+dist
+cryptosnake.egg-info
