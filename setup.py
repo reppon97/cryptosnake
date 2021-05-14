@@ -11,7 +11,7 @@ setup(
     description="Simple crypto data API",
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url="https://github.com/reppon97/soccer-data-api",
+    url="https://github.com/reppon97/cryptosnake",
     author="Rejep Mammedov",
     author_email="reppon97@gmail.com",
     license="MIT",
