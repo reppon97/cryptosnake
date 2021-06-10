@@ -1,5 +1,7 @@
 ### Simple, unofficial python wrapper for [Binance API](https://binance-docs.github.io/apidocs/spot/en/#change-log).
 
+You'll find this easy-to-use package helpful if you're interested in general market data and cryptocurrency values. You don't need to have a Binance account or API Key since you can't purchase/trade cryptocurrencies using this package.
+
 -------------
 
 ## Installation
