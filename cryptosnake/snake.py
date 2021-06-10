@@ -53,12 +53,3 @@ class CryptoSnake:
                    f'or try to use crypto_to_tether() method instead. ' \
                    f'Keep in mind that USDT is TetherUS, not an actual USD.\nUse get_all_pairings() method to get' \
                    f' a full list of pairings.'
-
-
-price = CryptoSnake()
-print(price.get_crypto_price('ETHBUSD'))
-print(price.get_available_symbols())
-print(price.get_available_pairings())
-print(price.crypto_to_usd('ETH'))
-print(price.crypto_to_euro('ETH'))
-print(price.crypto_to_tether('ETH'))
