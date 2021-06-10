@@ -55,10 +55,10 @@ class CryptoSnake:
                    f' a full list of pairings.'
 
 
-# price = CryptoSnake()
-# print(price.get_crypto_price('ETHBUSD'))
-# print(price.get_available_symbols())
-# print(price.get_available_pairings())
-# print(price.crypto_to_usd('ETH'))
-# print(price.crypto_to_euro('ETH'))
-# print(price.crypto_to_tether('ETH'))
+price = CryptoSnake()
+print(price.get_crypto_price('ETHBUSD'))
+print(price.get_available_symbols())
+print(price.get_available_pairings())
+print(price.crypto_to_usd('ETH'))
+print(price.crypto_to_euro('ETH'))
+print(price.crypto_to_tether('ETH'))

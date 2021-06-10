@@ -7,7 +7,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name="cryptosnake",
-    version="0.1.1",
+    version="0.1.2",
     description="Simple crypto data API",
     long_description=long_description,
     long_description_content_type='text/markdown',
